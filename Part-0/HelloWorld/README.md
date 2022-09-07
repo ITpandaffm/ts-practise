@@ -10,6 +10,6 @@ type HelloWorld = any
 
 ```ts
 // expected to be string
-type HelloWorld = string
+type HelloWorld = any
 
 
